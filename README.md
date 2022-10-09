@@ -1,2 +1,1 @@
-# update-logs
-Update logs for BuildistMC server.
+# [Click to see logs](https://github.com/BuildistMC/update-logs/issues)
